@@ -1,1 +1,2 @@
 my home working information
+Строка, добавленная прямо с GitHub
